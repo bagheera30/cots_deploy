@@ -2,7 +2,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>projekCots</groupId>
   <artifactId>projek</artifactId>
+
   <version>0.3.6</version> 
+
 
 <dependencies>
   <dependency>
@@ -16,7 +18,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/akunmkepl/continuous_deployment</url>
+      <url>https://maven.pkg.github.com/bagheera30/cots_deploy</url>
     </repository>
   </distributionManagement>
   
